@@ -17,3 +17,7 @@ Báo cáo: `CSDL.pdf`
 2. **Trịnh Đình Thạch-23110218**
 - Thực hiện `query.sql`, `transaction.sql`, `trigger.sql`, `procedure.sql`.
 - Viết tài liệu trong những phần tương ứng.
+  
+3. **Hoàng Minh Thái-23110344**
+- Thực hiện `query.sql`, `transaction.sql`, `trigger.sql`, `procedure.sql`.
+- Viết tài liệu trong những phần tương ứng.
